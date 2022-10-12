@@ -7,6 +7,7 @@ from accounts.models import MyUser
 # Another Update
 
 # La Maile ne change gare hai
+# Forked Changes Into Remote Repository
 class DateWidget(forms.DateInput):
     input_type = 'date' 
 
