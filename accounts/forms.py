@@ -5,6 +5,8 @@ from accounts.models import MyUser
 # Updates from Samir's Laptop
 # Updates Without Merge
 # Another Update
+
+# La Maile ne change gare hai
 class DateWidget(forms.DateInput):
     input_type = 'date' 
 
