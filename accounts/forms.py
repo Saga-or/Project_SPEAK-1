@@ -3,6 +3,7 @@ from django.contrib.auth.forms import UserCreationForm, AuthenticationForm,Passw
 from accounts.models import MyUser
 
 # Updates from Samir's Laptop
+# Updates Without Merge
 
 class DateWidget(forms.DateInput):
     input_type = 'date' 
