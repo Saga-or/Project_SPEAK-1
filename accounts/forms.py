@@ -2,6 +2,7 @@ from django import forms
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm,PasswordResetForm,SetPasswordForm
 from accounts.models import MyUser
 
+# Updates from Samir's Laptop
 
 class DateWidget(forms.DateInput):
     input_type = 'date' 
