@@ -4,7 +4,7 @@ from accounts.models import MyUser
 
 # Updates from Samir's Laptop
 # Updates Without Merge
-
+# Another Update
 class DateWidget(forms.DateInput):
     input_type = 'date' 
 
